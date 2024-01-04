@@ -555,26 +555,26 @@
                 ]
             ]
         },
-        geometry_name: "geom",
-        properties: {
-            state_code: "LA",
-            source: "ORNL_08_2017",
-            name: "Anthony",
-            name_calc: "Anthony",
-            ward_code: "LASSMU15",
-            ward_dist: 1.52227533,
-            lga_dist: 1.78981401,
-            major_road_dist: 434452.22104169,
-            tertiary_road_dist: 424438.97768434,
-            global_id: "3e6425c8-e6b1-42a8-898f-e4b9b84ce3a9"
+        "geometry_name": "geom",
+        "properties": {
+            "state_code": "LA",
+            "source": "ORNL_08_2017",
+            "name": "Anthony",
+            "name_calc": "Anthony",
+            "ward_code": "LASSMU15",
+            "ward_dist": 1.52227533,
+            "lga_dist": 1.78981401,
+            "major_road_dist": 434452.22104169,
+            "tertiary_road_dist": 424438.97768434,
+            "global_id": "3e6425c8-e6b1-42a8-898f-e4b9b84ce3a9"
         }
     },
     {
-        type: "Feature",
-        id: "u_fe_builtup_areas.3620",
-        geometry: {
-            type: "MultiPolygon",
-            coordinates: [
+        "type": "Feature",
+        "id": "u_fe_builtup_areas.3620",
+        "geometry": {
+            "type": "MultiPolygon",
+            "coordinates": [
                 [
                     [
                         [
