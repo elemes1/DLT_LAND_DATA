@@ -1,10 +1,10 @@
 [
     {
-        type: "Feature",
-        id: "u_fe_builtup_areas.14062",
-        geometry: {
-            type: "MultiPolygon",
-            coordinates: [
+        "type": "Feature",
+        "id": "u_fe_builtup_areas.14062",
+        "geometry": {
+            "type": "MultiPolygon",
+            "coordinates": [
                 [
                     [
                         [
@@ -199,26 +199,26 @@
                 ]
             ]
         },
-        geometry_name: "geom",
-        properties: {
-            state_code: "LA",
-            source: "GRID",
-            name: "Agege",
-            name_calc: "Agege",
-            ward_code: "LASAGG13",
-            ward_dist: 0.9231107,
-            lga_dist: 2.8419848,
-            major_road_dist: 428697.99825837,
-            tertiary_road_dist: 418620.39038078,
-            global_id: "f7ae4133-1cd3-4ee1-9d3a-e8d39031d870"
+        "geometry_name": "geom",
+        "properties": {
+            "state_code": "LA",
+            "source": "GRID",
+            "name": "Agege",
+            "name_calc": "Agege",
+            "ward_code": "LASAGG13",
+            "ward_dist": 0.9231107,
+            "lga_dist": 2.8419848,
+            "major_road_dist": 428697.99825837,
+            "tertiary_road_dist": 418620.39038078,
+            "global_id": "f7ae4133-1cd3-4ee1-9d3a-e8d39031d870"
         }
     },
     {
-        type: "Feature",
-        id: "u_fe_builtup_areas.1728",
-        geometry: {
-            type: "MultiPolygon",
-            coordinates: [
+        "type": "Feature",
+        "id": "u_fe_builtup_areas.1728",
+        "geometry": {
+            "type": "MultiPolygon",
+            "coordinates": [
                 [
                     [
                         [
@@ -389,26 +389,26 @@
                 ]
             ]
         },
-        geometry_name: "geom",
-        properties: {
-            state_code: "LA",
-            source: "ORNL_08_2017",
-            name: "Anthony",
-            name_calc: "Anthony",
-            ward_code: "LASKSE06",
-            ward_dist: 1.52513238,
-            lga_dist: 1.9916118,
-            major_road_dist: 433893.90764561,
-            tertiary_road_dist: 423893.04102272,
-            global_id: "1d88ee82-c309-4e29-9120-6936efc24dd4"
+        "geometry_name": "geom",
+        "properties": {
+            "state_code": "LA",
+            "source": "ORNL_08_2017",
+            "name": "Anthony",
+            "name_calc": "Anthony",
+            "ward_code": "LASKSE06",
+            "ward_dist": 1.52513238,
+            "lga_dist": 1.9916118,
+            "major_road_dist": 433893.90764561,
+            "tertiary_road_dist": 423893.04102272,
+            "global_id": "1d88ee82-c309-4e29-9120-6936efc24dd4"
         }
     },
     {
-        type: "Feature",
-        id: "u_fe_builtup_areas.3620",
-        geometry: {
-            type: "MultiPolygon",
-            coordinates: [
+        "type": "Feature",
+        "id": "u_fe_builtup_areas.3620",
+        "geometry": {
+            "type": "MultiPolygon",
+            "coordinates": [
                 [
                     [
                         [
@@ -721,26 +721,26 @@
                 ]
             ]
         },
-        geometry_name: "geom",
-        properties: {
-            state_code: "LA",
-            source: "ORNL_08_2017",
-            name: "Anthony",
-            name_calc: "Anthony",
-            ward_code: "LASSMU15",
-            ward_dist: 1.52227533,
-            lga_dist: 1.78981401,
-            major_road_dist: 434452.22104169,
-            tertiary_road_dist: 424438.97768434,
-            global_id: "3e6425c8-e6b1-42a8-898f-e4b9b84ce3a9"
+        "geometry_name": "geom",
+        "properties": {
+            "state_code": "LA",
+            "source": "ORNL_08_2017",
+            "name": "Anthony",
+            "name_calc": "Anthony",
+            "ward_code": "LASSMU15",
+            "ward_dist": 1.52227533,
+            "lga_dist": 1.78981401,
+            "major_road_dist": 434452.22104169,
+            "tertiary_road_dist": 424438.97768434,
+            "global_id": "3e6425c8-e6b1-42a8-898f-e4b9b84ce3a9"
         }
     },
     {
-        type: "Feature",
-        id: "u_fe_builtup_areas.102",
-        geometry: {
-            type: "MultiPolygon",
-            coordinates: [
+        "type": "Feature",
+        "id": "u_fe_builtup_areas.102",
+        "geometry": {
+            "type": "MultiPolygon",
+            "coordinates": [
                 [
                     [
                         [
@@ -851,18 +851,18 @@
                 ]
             ]
         },
-        geometry_name: "geom",
-        properties: {
-            state_code: "LA",
-            source: "ORNL_02_2017",
-            name: "Mojoda",
-            name_calc: "Mojoda",
-            ward_code: "LASEPE15",
-            ward_dist: 4.6273598,
-            lga_dist: 154.74031301,
-            major_road_dist: 403240.69757112,
-            tertiary_road_dist: 393932.44408979,
-            global_id: "019fef0e-0ad1-4358-bd9f-fe893ab9795b"
+        "geometry_name": "geom",
+        "properties": {
+            "state_code": "LA",
+            "source": "ORNL_02_2017",
+            "name": "Mojoda",
+            "name_calc": "Mojoda",
+            "ward_code": "LASEPE15",
+            "ward_dist": 4.6273598,
+            "lga_dist": 154.74031301,
+            "major_road_dist": 403240.69757112,
+            "tertiary_road_dist": 393932.44408979,
+            "global_id": "019fef0e-0ad1-4358-bd9f-fe893ab9795b"
         }
     }
 ]
